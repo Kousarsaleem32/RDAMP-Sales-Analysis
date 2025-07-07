@@ -1,7 +1,7 @@
 # Ace Superstore Sales Analysis Report
 
 **Task ID**: TASK-INT001-RDAMP  
-**Analyst**: [Kousar Saleem]
+**Analyst**: Kousar Saleem
 
 ---
 

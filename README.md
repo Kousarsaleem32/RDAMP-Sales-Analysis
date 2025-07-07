@@ -42,7 +42,8 @@ These new columns enabled more in-depth profitability and revenue analyses.
 
 ### 2.1 Total Sales and Discount Rates by Region
 
-*Charts Referenced: Total Sales by Region, Total Discount by Region*
+![Total Sales by Region](Total_Sales_By_Region.png)  
+![Total Discount by Region](Total_Discount_By_Region.png)
 
 - **Top-performing regions**:  
   East Midlands, Yorkshire and the Humber, Scotland, and London recorded the highest `Total Sales`.

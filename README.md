@@ -59,7 +59,7 @@ These new columns enabled more in-depth profitability and revenue analyses.
 ### 2.2 Top and Bottom Products by Revenue
 
 ![Total Sales by Region](Top_5_best_selling_products_By_Revenue.png)  
-![Total Discount by Region](Top_5_underperforming_products_By_Revenue.png)
+
 
 **Best-selling products**:
 - Portable Refrigerator Freezer: £51,380.05  
@@ -69,6 +69,8 @@ These new columns enabled more in-depth profitability and revenue analyses.
 - Compact Dishwasher: £32,738.16  
 
 These high-value products indicate a strong preference for electronics and utility appliances.
+
+![Total Discount by Region](Top_5_underperforming_products_By_Revenue.png)
 
 **Underperforming products**:
 - Herb Seasoned Rice: £17.94  
@@ -83,7 +85,7 @@ Low-cost grocery items with very low `Total Sales` may not justify inventory spa
 
 ### 2.3 High-Margin Categories
 
-*Chart Referenced: Product Categories With Highest Margins*
+![Total Discount by Region](Product_Categories_With_Highest_Margins.png)
 
 **Top categories by `Total Margin`**:
 - Outdoor: £281,900  
@@ -99,7 +101,8 @@ Pets, Health, and Fitness had significantly smaller margins.
 
 ### 2.4 Sales Distribution Across Order Mode
 
-*Chart Referenced: Sales distribution across Order Mode*
+![Total Discount by Region](Sales_distribution_across_Order_Mode.png)
+
 
 - **Online** sales: £1,634,038.87 (52%)  
 - **In-Store** sales: £1,536,872.95 (48%)

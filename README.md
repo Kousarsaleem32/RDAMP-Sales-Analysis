@@ -58,7 +58,8 @@ These new columns enabled more in-depth profitability and revenue analyses.
 
 ### 2.2 Top and Bottom Products by Revenue
 
-*Charts Referenced: Top 5 best-selling products by Revenue, Top 5 underperforming products by Revenue*
+![Total Sales by Region](Top_5_best_selling_products_By_Revenue.png)  
+![Total Discount by Region](Top_5_underperforming_products_By_Revenue.png)
 
 **Best-selling products**:
 - Portable Refrigerator Freezer: £51,380.05  
